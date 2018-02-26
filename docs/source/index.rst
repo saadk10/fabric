@@ -74,10 +74,6 @@ Business:
    endorsement-policies
    error-handling
    logging-control
-<<<<<<< HEAD
-   cryptogen-commands
-=======
->>>>>>> e70ddae... temp
    enable_tls
    kafka
 
